@@ -13,3 +13,7 @@ Udates are XYZ
 ## Conclusion
 
 ## Reference
+
+### Copyright
+2020 Git.Training
+
